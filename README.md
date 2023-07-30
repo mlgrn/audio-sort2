@@ -16,10 +16,12 @@ Create a new environment
 
     python -m venv ./venv
 
-Activate it
+Activate it:
+
     source ./venv/bin/activate   
 
-Install dependencies
+Install dependencies:
+
     pip install -r ./requirements.txt 
 
 Then, run the first block of code with the import statements. If that works, you're probably good. 
